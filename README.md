@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Chuk Chinemere</h1>
-<h3 align="center">A software engineer from the DMV</h3>
+<h3 align="center">A software engineer from the DMV area</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/chukwuebuka-chinemere" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="loly"/></a>
 </p>
